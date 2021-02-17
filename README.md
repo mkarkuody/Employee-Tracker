@@ -41,25 +41,19 @@ App for business to be able to view and manage the departments, roles, and emplo
 ## Features
 
 - View Employees
-- View Employees by Manager
-- View Employees by Department
-- View Departments
 - View Roles
-- View Department Budget
 - Add Employee
-- Add Department
 - Add Role
 - Update Employee Role
 - Update Employee Manager
 - Remove Employee
-- Remove Department
 - Remove Role
 
 ## Example Pictures
 
-<img src="screenshot_1.jpg">
-<img src="screenshot_2.jpg">
-<img src="screenshot_3.jpg">
+<img src="Screenshot_1.jpg">
+<img src="Screenshot_2.jpg">
+<img src="Screenshot_3.jpg">
 
 ## demo Video
 https://github.com/mkarkuody/Employee-Tracker/blob/main/assets/Employee%20Tracker.mp4
