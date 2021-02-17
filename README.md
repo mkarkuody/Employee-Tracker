@@ -62,3 +62,5 @@ https://github.com/mkarkuody/Employee-Tracker/blob/main/assets/Employee%20Tracke
 ## Licence
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Credits
+ Thanks to John Young my class instructor and Ben Vaagen my TA. special Thanks to Abdul Aziz my TA and Amanda Crawford My Tutor for helping me to understand the class and homework contents.
