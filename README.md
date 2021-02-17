@@ -58,12 +58,6 @@ App for business to be able to view and manage the departments, roles, and emplo
 ## demo Video
 https://github.com/mkarkuody/Employee-Tracker/blob/main/assets/Employee%20Tracker.mp4
 
-## Test
-
-![GitHub test](https://img.shields.io/badge/test-100%25-success)
-
-![GitHub open issues](https://img.shields.io/github/issues/mkarkuody/MySQL-Employee-Tracker)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/mkarkuody/MySQL-Employee-Tracker)
 
 ## Licence
 
