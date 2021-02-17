@@ -1,14 +1,10 @@
 # Employee-Tracker# Employee_Tracker
-
+# by Merdad Karkudi
 ![GitHub license](https://img.shields.io/badge/mkarkuody-green)
 
 App for business to be able to view and manage the departments, roles, and employees in their company so that they can organize and plan their business better.
 
 # Technologies Used
-
-![GitHub top language](https://img.shields.io/github/languages/top/WasteOfADrumBum/MySQL-Employee-Tracker?color=green&logo=github&logoColor=green)
-![GitHub language count](https://img.shields.io/github/languages/count/WasteOfADrumBum/MySQL-Employee-Tracker?color=green&logo=github&logoColor=green)
-
 1. Node.js
 2. MySQL
 3. NPM
@@ -59,11 +55,14 @@ App for business to be able to view and manage the departments, roles, and emplo
 - Remove Department
 - Remove Role
 
-## Example Gif
+## Example Pictures
 
-<img src="screenshot_1.jpg" width="500" />
-<img src="screenshot_2.jpg" width="500" />
-<img src="screenshot_3.jpg" width="500" />
+<img src="screenshot_1.jpg">
+<img src="screenshot_2.jpg">
+<img src="screenshot_3.jpg">
+
+## demo Video
+https://github.com/mkarkuody/Employee-Tracker/blob/main/assets/Employee%20Tracker.mp4
 
 ## Test
 
